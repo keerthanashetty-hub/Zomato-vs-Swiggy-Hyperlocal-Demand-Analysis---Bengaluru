@@ -1,0 +1,236 @@
+CREATE DATABASE zomato_swiggy_project;
+USE zomato_swiggy_project;
+CREATE TABLE restaurants (
+    name VARCHAR(255),
+    location VARCHAR(100),
+    cuisines VARCHAR(255),
+    rating FLOAT,
+    cost INT,
+    cost_category VARCHAR(50),
+    platform VARCHAR(50),
+    demand_score FLOAT
+);
+SELECT * FROM restaurants LIMIT 10;
+SHOW TABLES;
+DESCRIBE restaurants;
+DROP TABLE restaurants;
+CREATE TABLE restaurants (
+    name VARCHAR(255),
+    rating FLOAT,
+    votes FLOAT,
+    location VARCHAR(100),
+    cuisines TEXT,
+    cost FLOAT,
+    cost_category VARCHAR(50),
+    platform VARCHAR(50),
+    demand_score FLOAT,
+    popularity VARCHAR(50)
+);
+SHOW TABLES;
+DESCRIBE restaurants;
+SELECT * FROM restaurants LIMIT 10;
+SELECT COUNT(*) FROM restaurants;
+SELECT * FROM restaurants LIMIT 100;
+SELECT COUNT(*) AS total_rows FROM restaurants;
+DESCRIBE restaurants;
+SELECT 
+    SUM(CASE WHEN name IS NULL THEN 1 ELSE 0 END) AS null_name,
+    SUM(CASE WHEN rating IS NULL THEN 1 ELSE 0 END) AS null_rating,
+    SUM(CASE WHEN location IS NULL THEN 1 ELSE 0 END) AS null_location,
+    SUM(CASE WHEN cuisines IS NULL THEN 1 ELSE 0 END) AS null_cuisines,
+    SUM(CASE WHEN cost IS NULL THEN 1 ELSE 0 END) AS null_cost
+FROM restaurants;
+
+
+SELECT DISTINCT location FROM restaurants;
+
+SELECT COUNT(DISTINCT location) AS unique_locations
+FROM restaurants;
+
+SELECT name, location, COUNT(*) AS duplicate_count
+FROM restaurants
+GROUP BY name, location
+HAVING COUNT(*) > 1;
+
+SELECT 
+    MIN(rating) AS min_rating,
+    MAX(rating) AS max_rating,
+    AVG(rating) AS avg_rating,
+    MIN(cost) AS min_cost,
+    MAX(cost) AS max_cost,
+    AVG(cost) AS avg_cost
+FROM restaurants;
+
+SELECT platform, COUNT(*) AS total
+FROM restaurants
+GROUP BY platform;
+
+SELECT location, COUNT(*) AS total_restaurants
+FROM restaurants
+GROUP BY location
+ORDER BY total_restaurants DESC;
+
+# Average Rating by Location
+SELECT location, AVG(rating) AS avg_rating
+FROM restaurants
+GROUP BY location
+ORDER BY avg_rating DESC;
+
+# Top Cuisines
+SELECT cuisines, COUNT(*) AS total
+FROM restaurants
+GROUP BY cuisines
+ORDER BY total DESC;
+
+# Platform Comparison
+SELECT platform,
+       COUNT(*) AS total_restaurants,
+       AVG(rating) AS avg_rating,
+       AVG(cost) AS avg_cost
+FROM restaurants
+GROUP BY platform;
+
+# Cost Category Distribution
+SELECT cost_category, COUNT(*) AS total
+FROM restaurants
+GROUP BY cost_category;
+
+# Cost Category Distribution
+SELECT cost_category, COUNT(*) AS total
+FROM restaurants
+GROUP BY cost_category;
+
+# Low Cost Restaurants
+SELECT name, location, cost
+FROM restaurants
+WHERE cost < 300
+ORDER BY cost ASC;
+
+# Demand by Location
+SELECT location, SUM(demand_score) AS total_demand
+FROM restaurants
+GROUP BY location
+ORDER BY total_demand DESC;
+
+# Top Locations with Above Average Rating
+WITH avg_rating AS (
+    SELECT AVG(rating) AS overall_avg FROM restaurants
+),
+location_rating AS (
+    SELECT location, AVG(rating) AS loc_avg
+    FROM restaurants
+    GROUP BY location
+)
+SELECT lr.location, lr.loc_avg
+FROM location_rating lr, avg_rating ar
+WHERE lr.loc_avg > ar.overall_avg
+ORDER BY lr.loc_avg DESC;
+
+# CTEs : Best Cuisine in Each Location
+WITH cuisine_count AS (
+    SELECT location, cuisines, COUNT(*) AS total
+    FROM restaurants
+    GROUP BY location, cuisines
+),
+ranked AS (
+    SELECT *,
+           RANK() OVER (PARTITION BY location ORDER BY total DESC) AS rnk
+    FROM cuisine_count
+)
+SELECT location, cuisines, total
+FROM ranked
+WHERE rnk = 1;
+
+# WINDOW FUNCTION : Top Restaurants Per Location
+SELECT name, location, rating,
+DENSE_RANK() OVER (PARTITION BY location ORDER BY rating DESC) AS rank_in_location
+FROM restaurants;
+
+# Running Average Rating by Cost
+SELECT cost, rating,
+AVG(rating) OVER (ORDER BY cost ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) AS running_avg
+FROM restaurants;
+
+# CASE STATEMENTS Dynamic Rating Category
+SELECT name, rating,
+CASE
+    WHEN rating >= 4.5 THEN 'Excellent'
+    WHEN rating >= 4 THEN 'Good'
+    WHEN rating >= 3 THEN 'Average'
+    ELSE 'Poor'
+END AS rating_category
+FROM restaurants;
+
+# SUBQUERY : Restaurants Above Average Rating
+SELECT name, rating
+FROM restaurants
+WHERE rating > (SELECT AVG(rating) FROM restaurants);
+
+# DERIVED TABLE : Platform-wise Top Locations
+SELECT *
+FROM (
+    SELECT location, platform, COUNT(*) AS total,
+           RANK() OVER (PARTITION BY platform ORDER BY COUNT(*) DESC) AS rnk
+    FROM restaurants
+    GROUP BY location, platform
+) t
+WHERE rnk <= 5;
+
+# STORED PROCEDURES : top locations
+DELIMITER //
+
+CREATE PROCEDURE GetTopLocations()
+BEGIN
+    SELECT location, COUNT(*) AS total
+    FROM restaurants
+    GROUP BY location
+    ORDER BY total DESC;
+END //
+
+DELIMITER ;
+CALL GetTopLocations();
+
+DELIMITER //
+
+# procedure with parameter
+CREATE PROCEDURE GetRestaurantsByRating(IN min_rating FLOAT)
+BEGIN
+    SELECT name, location, rating
+    FROM restaurants
+    WHERE rating >= min_rating;
+END //
+
+DELIMITER ;
+CALL GetRestaurantsByRating(4.2);
+
+
+# correlation analysis of cost vs trend
+SELECT cost_category,
+       AVG(rating) AS avg_rating,
+       COUNT(*) AS total
+FROM restaurants
+GROUP BY cost_category
+ORDER BY avg_rating DESC;
+
+# top 10 restaurants
+SELECT name, location, rating
+FROM restaurants
+ORDER BY rating DESC
+LIMIT 10;
+
+# data segmentation by demand
+SELECT 
+CASE
+    WHEN demand_score > 40 THEN 'High Demand'
+    WHEN demand_score > 30 THEN 'Medium Demand'
+    ELSE 'Low Demand'
+END AS demand_segment,
+COUNT(*) AS total
+FROM restaurants
+GROUP BY demand_segment;
+
+
+
+
+   
+

@@ -1,0 +1,6 @@
+1. kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
+2. kaggle.com/datasets/ashishjangra27/swiggy-restaurants-dataset
+
+NOTE : Merge these with help of python coding and download from jupyter notebook
+
+SUGESSTION : Use only limited rows and columns of data from data set (These kaggle data set links are not cleaned)

@@ -1,0 +1,738 @@
+﻿name,location,ratings,cost,cuisine,cost category
+Kanti Sweets,"Yeshwanthpur,Bangalore",4.3,150,Sweets,High
+M GRILL,"Yeshwanthpur,Bangalore",4,300,"Grill,Tandoor",High
+Cafe Coffee Day,"Yeshwanthpur,Bangalore",4.1,300,"Beverages,Snacks",High
+Mamma Rotti Family Restaurant,"Yeshwanthpur,Bangalore",3.7,400,"North Indian,Chinese",High
+The Dessert Zone,"Yeshwanthpur,Bangalore",4,200,"Bakery,Desserts",Medium
+7 star Ambur Dum Biriyani,"Yeshwanthpur,Bangalore",3.6,250,Biryani,Medium
+Athiti Grand,"Yeshwanthpur,Bangalore",4,200,"Indian,North Indian",Medium
+Malgudi's Donne Biriyani.,"Yeshwanthpur,Bangalore",4.2,300,Biryani,Medium
+Canteen Central by Eatfit,"Yeshwanthpur,Bangalore",4.1,350,"Pizzas,American",Medium
+Burger It Up,"Yeshwanthpur,Bangalore",4.3,150,"American,Fast Food",High
+Bhavani Vada Pav,"Yeshwanthpur,Bangalore",3.8,100,"Maharashtrian,Snacks",Low
+AB s-Absolute Barbecues,"Yeshwanthpur,Bangalore",3.3,400,"Barbecue,Italian",High
+Hotel Aasare,"Yeshwanthpur,Bangalore",4.3,300,"Biryani,South Indian",High
+Smoodies & Juices: Yours Fruitfully,"Yeshwanthpur,Bangalore",3.7,140,"Snacks,Healthy Food",High
+Burger It Up,"Geddalahalli,Bangalore",4.2,150,"American,Fast Food",High
+Leon Grill,"Geddalahalli,Bangalore",4.2,200,"American,Turkish",Low
+Calcutta victoria chat house,"Geddalahalli,Bangalore",3.6,200,"Chaat,North Indian",High
+Thalassery Restaurant,"Geddalahalli,Bangalore",4.1,300,"South Indian,Arabian",High
+Snack House,"Geddalahalli,Bangalore",4,300,"Fast Food,Street Food",High
+Paratha Lounge,"Geddalahalli,Bangalore",4.5,200,Indian,Medium
+Nandhana Palace,"Geddalahalli,Bangalore",4.2,500,Andhra,High
+PAANOOR RESTAURANT & CAFE,"Geddalahalli,Bangalore",3.8,250,"Indian,Chinese",Medium
+Sri Devi Vaibhav,"Geddalahalli,Bangalore",4.2,200,"South Indian,North Indian",High
+19 Galli Foods,"Geddalahalli,Bangalore",4.3,150,"South Indian,Chinese",Medium
+KFC,"Geddalahalli,Bangalore",3.9,400,"American,Snacks",High
+New Krishna Sagar Fast Food,"Geddalahalli,Bangalore",4.1,500,"Chinese,South Indian",High
+BOX8 - Desi Meals,"Geddalahalli,Bangalore",3.9,250,"North Indian,Biryani",Medium
+Chikpet Donne Biriyani House,"Geddalahalli,Bangalore",3.9,300,Biryani,Medium
+Five Star Chicken,"Geddalahalli,Bangalore",4.4,300,Fast Food,Medium
+Anand Sweets and Savouries,"Geddalahalli,Bangalore",4.4,150,"Sweets,North Indian",High
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream","Geddalahalli,Bangalore",4.3,250,"Beverages,Desserts",Low
+The Yellow Tree,"Geddalahalli,Bangalore",4.1,700,"Continental,Desserts",High
+K C Das Thanisandra,"Geddalahalli,Bangalore",3.9,150,"Indian,Sweets",High
+Udupi Sannidhi Grand,"Geddalahalli,Bangalore",3.9,200,South Indian,Low
+PANDIT CHAT HOUSE,"Geddalahalli,Bangalore",3.4,200,"Indian,Snacks",Medium
+Sundae Everyday Ice Creams,"Geddalahalli,Bangalore",4.1,150,"Ice Cream,Desserts",Medium
+My Little China,"Geddalahalli,Bangalore",3.8,250,"Chinese,North Indian",High
+Gopaljee Cafe,"Koramangala,Bangalore",4.2,350,"Indian,North Indian",High
+NOTO Healthy Ice Cream,"Koramangala,Bangalore",4.3,250,Ice Cream,Medium
+Khawa Karpo,"Koramangala,Bangalore",4.5,178,Chinese,High
+Lazeez,"Koramangala,Bangalore",4.3,500,"North Indian,Mughlai",Low
+ITC Sunfeast Baked Creations,"Koramangala,Bangalore",4.6,600,"Bakery,Desserts",Medium
+ITC Master Chef Creations,"Koramangala,Bangalore",4.4,650,"North Indian,Biryani",High
+Miami Waffles & Jawbreakers,"Koramangala,Bangalore",4.3,200,"Waffle,Desserts",High
+ITC Fabelle Chocolates,"Koramangala,Bangalore",4.8,600,"Bakery,Desserts",Medium
+The Baker's Dozen,"Koramangala,Bangalore",4.3,300,"Bakery,Desserts",High
+Tharavadu,"Koramangala,Bangalore",3.6,300,"Kerala,Seafood",High
+SMOOR,"Koramangala,Bangalore",4.3,350,"Desserts,Ice Cream",High
+Hari Super Sandwich,"Koramangala,Bangalore",4.3,300,"Fast Food,Snacks",High
+MTR,"Koramangala,Bangalore",4.3,300,South Indian,High
+Maa Di Hatti,"Koramangala,Bangalore",3.8,150,"North Indian,Punjabi",Medium
+Soul Rasa,"Koramangala,Bangalore",4.4,500,"Indian,Healthy Food",High
+Burger It Up,"Koramangala,Bangalore",4.2,150,"American,Fast Food",Medium
+154 Breakfast Club,"Koramangala,Bangalore",4.4,1000,"Continental,American",High
+The Corner Of Chow,"Koramangala,Bangalore",3.9,200,"Chinese,Snacks",High
+RNR Biryani - Taste of 1953,"Koramangala,Bangalore",4.2,350,"Biryani,South Indian",High
+Goodness Grills,"Koramangala,Bangalore",4,350,"Healthy Food,Continental",High
+Home Plate by EatFit,"Koramangala,Bangalore",4.1,160,"North Indian,Home Food",High
+Potful - Claypot Biryanis,"Koramangala,Bangalore",4.2,350,"Biryani,Kebabs",Low
+Taiki,"Koramangala,Bangalore",4,1000,"Pan-Asian,Japanese",Medium
+Sera's Cuisine,"Koramangala,Bangalore",4,300,"Indian,Biryani",High
+Hot Momo Darjeeling Style,"Koramangala,Bangalore",4.2,250,Chinese,Medium
+McDonald's,"Koramangala,Bangalore",4.3,400,"Burgers,Beverages",High
+RF Cake and Flowers,"Koramangala,Bangalore",3.6,200,Bakery,High
+Chaat Street Express,"Koramangala,Bangalore",4,150,"Snacks,Chaat",High
+Puliyogare Palace,"Koramangala,Bangalore",3.5,200,South Indian,Low
+Chinese Wok (Wok Express),"Koramangala,Bangalore",3.8,250,"Chinese,Asian",High
+Domino's Pizza,"Koramangala,Bangalore",4.3,400,Pizzas,Medium
+Sharief Bhai,"Koramangala,Bangalore",4,400,"Biryani,North Indian",High
+Frosty Frills,"Koramangala,Bangalore",4.7,100,"Desserts,Ice Cream",Medium
+Lassi  Shop,"Koramangala,Bangalore",4,200,"Beverages,Snacks",Low
+Leon Grill,"Koramangala,Bangalore",4.4,300,"American,Snacks",Medium
+The Licious Kitchen,"Koramangala,Bangalore",4,350,"Kebabs,Snacks",Medium
+The Mangalorean,"Koramangala,Bangalore",4.1,600,"Mangalorean,Seafood",Medium
+Toscano's Crafted Cakes and Desserts,"Koramangala,Bangalore",3.5,600,"Desserts,Bakery",High
+Mainland China,"Koramangala,Bangalore",4,650,"Chinese,Asian",High
+Lassi Corner,"Koramangala,Bangalore",2.5,199,"Beverages,Ice Cream",High
+Wheat Barn,"Koramangala,Bangalore",4.2,450,"Pizzas,Desserts",High
+Garage Food Company,"Koramangala,Bangalore",4.5,250,"Chinese,Desserts",Medium
+Hotel Empire,"Koramangala,Bangalore",4,450,"North Indian,Kebabs",Medium
+Tibbs Frankie,"Koramangala,Bangalore",4.1,175,Street Food,High
+Dindigul Thalappakatti,"Koramangala,Bangalore",4,600,"Biryani,Barbecue",High
+XO Belgian Waffle,"Koramangala,Bangalore",4.3,250,Desserts,High
+Wow! Momo,"Koramangala,Bangalore",3.7,300,"Tibetan,Healthy Food",Medium
+Dande's Hyderabad Biryani,"Koramangala,Bangalore",2.5,350,"Biryani,Andhra",High
+Midnight Mania,"Koramangala,Bangalore",4.1,300,"Pizzas,Continental",High
+Chai Point,"Koramangala,Bangalore",4.4,150,"Bakery,Beverages",Medium
+Bamey's Restro Cafe,"Koramangala,Bangalore",4.5,400,"Chinese,Thai",Low
+Chuckling Chinese,"Koramangala,Bangalore",4.1,300,Chinese,High
+Krispy Kreme,"Koramangala,Bangalore",4.5,170,"Desserts,Beverages",Medium
+Aubree,"Koramangala,Bangalore",4.1,700,"Desserts,Bakery",Low
+Keventers - Milkshakes and Desserts,"Koramangala,Bangalore",4.2,300,"Beverages,Ice Cream",High
+Simply South by YummyEats,"Koramangala,Bangalore",3.5,250,"Biryani,Indian",Medium
+Thottathil Restaurant,"Koramangala,Bangalore",3.8,200,South Indian,Medium
+V Cafe - Meals By PVR,"Koramangala,Bangalore",3.5,400,"Pizzas,Snacks",Medium
+Biryani Khazana,"Koramangala,Bangalore",4.2,400,"Biryani,Indian",Medium
+CHEESECAKE AND CO,"Koramangala,Bangalore",4.6,250,Bakery,Medium
+Chickpet donne biriyani house,"Koramangala,Bangalore",4,250,Biryani,Medium
+FICO,"Koramangala,Bangalore",3.9,300,"Pizzas,Desserts",High
+Nadan Pothichoru,"Koramangala,Bangalore",3.7,200,"South Indian,Kerala",Medium
+Wakka Makka Chinese,"Koramangala,Bangalore",3.9,250,"Tibetan,Chinese",Medium
+Brownie Heaven,"Koramangala,Bangalore",4.4,350,Desserts,Medium
+Friends Euro Restaurant,"Koramangala,Bangalore",4,599,"Chinese,Continental",High
+Lucknowee,"Koramangala,Bangalore",4,600,"North Indian,Biryani",High
+Tandoor Hut,"Koramangala,Bangalore",4.3,300,"Biryani,Chinese",High
+Anand Sweets and Savouries,"Koramangala,Bangalore",4.4,300,"Sweets,Snacks",High
+Anjappar,"Koramangala,Bangalore",3.9,600,"Chettinad,Thalis",Medium
+Royal Calcutta Restaurant,"Koramangala,Bangalore",3.8,178,"Bengali,Chinese",High
+Blue Tokai Coffee Roasters,"Koramangala,Bangalore",4.4,800,"Healthy Food,Pastas",Low
+Salad Matters,"Koramangala,Bangalore",4.4,550,"Salads,Healthy Food",High
+McDonald's,"JP Nagar,Bangalore",4.1,400,"Burgers,Beverages",High
+Cake N Chef,"JP Nagar,Bangalore",4,200,"Bakery,Desserts",Medium
+Nagarjuna,"JP Nagar,Bangalore",4.4,600,"Andhra,South Indian",Medium
+DESI CURRY      asal desi swaad,"JP Nagar,Bangalore",3.4,200,"North Indian,Indian",High
+Ninan's Steakhouse,"JP Nagar,Bangalore",4,500,"Pizzas,Barbecue",Medium
+Coco Island,"JP Nagar,Bangalore",4.6,200,"Desserts,Ice Cream",Medium
+Dindigul Thalappakatti,"JP Nagar,Bangalore",3.5,550,"Biryani,Barbecue",Medium
+Funky Punjab,"JP Nagar,Bangalore",3.9,350,"Punjabi,North Indian",High
+Subway,"JP Nagar,Bangalore",4.1,350,"Salads,Snacks",High
+Ultimate Biryanis,"JP Nagar,Bangalore",3.8,300,"Biryani,Hyderabadi",High
+Daily Sushi,"JP Nagar,Bangalore",4.1,700,"Korean,Japanese",High
+Ibaco,"JP Nagar,Bangalore",4.5,800,Desserts,High
+Pind Da Paratha,"JP Nagar,Bangalore",4.6,250,"North Indian,Desserts",High
+Beijing Bites,"JP Nagar,Bangalore",4.2,450,Chinese,Medium
+Hummus Club Blr,"JP Nagar,Bangalore",4.6,239,"Mediterranean,Arabian",High
+Kundana Andhrastyle family restaurant,"JP Nagar,Bangalore",3.6,400,"Andhra,Biryani",Medium
+Mainland China,"JP Nagar,Bangalore",4.2,850,"Chinese,Asian",Medium
+Oven Story Pizza,"JP Nagar,Bangalore",3.9,400,"Pizzas,Italian",High
+Jayanagara Donne Biryani,"JP Nagar,Bangalore",4.3,300,"Biryani,South Indian",Medium
+Samosa Party,"JP Nagar,Bangalore",4.4,100,"Chaat,North Indian",High
+Express Kitchen,"JP Nagar,Bangalore",4.3,300,"Indian,Tandoor",Low
+The Bowl Company,"JP Nagar,Bangalore",4.3,300,"Continental,North Indian",Medium
+Taco Bell,"JP Nagar,Bangalore",4.1,300,Mexican,High
+KFC,"JP Nagar,Bangalore",3.8,400,"American,Snacks",High
+Auntie Fung's,"JP Nagar,Bangalore",3.8,600,"Chinese,Thai",High
+Holige Mane,"JP Nagar,Bangalore",4.5,200,Sweets,High
+Tandoor and Spice,"JP Nagar,Bangalore",4.3,300,"Biryani,Tandoor",High
+Ande ka funda,"JP Nagar,Bangalore",3.8,250,"North Indian,Chinese",Medium
+Asha Sweet Center,"JP Nagar,Bangalore",4.4,100,"Sweets,Desserts",Medium
+Mad Momos,"JP Nagar,Bangalore",3.9,150,"Chinese,Tibetan",Low
+DRS Cloud Kitchen,"JP Nagar,Bangalore",4.1,450,"Bengali,North Indian",High
+SN Refreshments,"JP Nagar,Bangalore",4.5,100,South Indian,Medium
+Cakewala,"JP Nagar,Bangalore",4.4,450,Desserts,Low
+Truffles,"JP Nagar,Bangalore",4.4,350,"American,Continental",Medium
+Living Bowls,"JP Nagar,Bangalore",4.5,500,"Salads,Continental",High
+ATH - All Things Healthy!,"JP Nagar,Bangalore",4.3,200,"Healthy Food,Indian",High
+Spice Up,"JP Nagar,Bangalore",4.3,400,"North Indian,Chinese",Medium
+Shree Udupi Grand,"JP Nagar,Bangalore",3.9,300,"Chinese,South Indian",Medium
+CALL A CAKE,"JP Nagar,Bangalore",3.5,160,"Bakery,Desserts",Medium
+Naividyam Veg,"JP Nagar,Bangalore",4.3,150,"South Indian,North Indian",Low
+Donne Biryani Dream House,"JP Nagar,Bangalore",3.5,199,"Biryani,Chinese",Low
+Wack Waffle & Brownies,"JP Nagar,Bangalore",4.8,250,"Waffle,Desserts",High
+Flavor's Season,"JP Nagar,Bangalore",4.1,150,Chinese,High
+Sweet Truth - Cake and Desserts,"JP Nagar,Bangalore",3.6,450,"Bakery,Desserts",Low
+Hunger Camp,"JP Nagar,Bangalore",3.7,600,"North Indian,Chinese",High
+Shanthi Sagar,"JP Nagar,Bangalore",3.7,300,"North Indian,Chinese",High
+Checkpost,"JP Nagar,Bangalore",4.2,500,"Chinese,South Indian",High
+The Soya Chaap Co.,"JP Nagar,Bangalore",4,400,"Punjabi,Snacks",High
+Friendly Neighbourhood Pizza-Man,"JP Nagar,Bangalore",4.3,180,"Pizzas,Ice Cream",High
+Shuddh Desi Khana,"JP Nagar,Bangalore",4,350,"North Indian,Chinese",Low
+Namma Kudla,"JP Nagar,Bangalore",4.3,350,"Coastal,Seafood",Medium
+Kabab Magic,"JP Nagar,Bangalore",4.1,250,"North Indian,Chinese",High
+Get Set Eat BY Bansal's,"JP Nagar,Bangalore",4,350,"North Indian,Chinese",High
+SPARROW BITES,"JP Nagar,Bangalore",3.1,199,"Chinese,Indian",Medium
+UDUPI UPAHAR,"JP Nagar,Bangalore",4.3,300,Indian,Low
+B2H - Biryani 2 Home,"JP Nagar,Bangalore",3.6,399,"Biryani,South Indian",Medium
+Levels Pub & Kitchen,"JP Nagar,Bangalore",4.5,500,"Indian,Chinese",Medium
+Taiki,"JP Nagar,Bangalore",4,800,"Pan-Asian,Japanese",High
+Anand Sweets and Savouries,"JP Nagar,Bangalore",4.4,300,"Sweets,Chaat",High
+HOTEL PRASHANTH,"JP Nagar,Bangalore",4.1,499,"South Indian,Andhra",High
+Chaiffee Cafe,"JP Nagar,Bangalore",3.7,200,"Beverages,Snacks",High
+K C DAS,"JP Nagar,Bangalore",4.2,100,Sweets,High
+Udupi Kai Ruchi,"JP Nagar,Bangalore",4.3,100,"South Indian,Indian",Low
+1947 Restaurant,"JP Nagar,Bangalore",4.1,500,"North Indian,Chinese",Low
+UBQ by Barbeque Nation,"JP Nagar,Bangalore",3.9,300,"North Indian,Barbecue",High
+Go Native,"JP Nagar,Bangalore",4.2,600,"Healthy Food,Jain",High
+SRI VENKATESHWARA NORTH KARNATAKA JOLADA ROTI HOTEL,"JP Nagar,Bangalore",4.3,150,Indian,High
+Inchara Hotel And Fine Dining Restaurant,"JP Nagar,Bangalore",4.4,600,"Indian,Chinese",High
+Ministry of Ice Creams,"JP Nagar,Bangalore",3.9,200,Ice Cream,High
+KARAVALI FISH MAGIC,"JP Nagar,Bangalore",4.3,250,"South Indian,Chinese",High
+The Pump House,"JP Nagar,Bangalore",4.2,800,"Continental,Italian",High
+Shanghai Court,"JP Nagar,Bangalore",4.3,450,"Chinese,Thai",High
+Shyamji's Chole Bhature,"JP Nagar,Bangalore",4.2,300,"North Indian,Snacks",Medium
+FlyingKombucha,"JP Nagar,Bangalore",4.3,300,"Beverages,Healthy Food",High
+GetAWhey - Healthy Ice creams.,"JP Nagar,Bangalore",4.6,250,"Ice Cream,Healthy Food",Medium
+Amritsari Kulcha Land,"JP Nagar,Bangalore",3.9,199,"North Indian,Punjabi",High
+MAM - My Aunty Mane,"JP Nagar,Bangalore",3.5,200,"South Indian,North Eastern",Low
+SMOOR,"JP Nagar,Bangalore",4.3,600,"Asian,Desserts",Medium
+Milano Ice Cream,"JP Nagar,Bangalore",4.4,200,"Ice Cream,Desserts",High
+Asian Cucina,"JP Nagar,Bangalore",4.1,350,"Chinese,Asian",High
+Pasta Street,"JP Nagar,Bangalore",4.3,900,"Italian,Pastas",High
+Good Fettle - Healthy Ice Cream,"JP Nagar,Bangalore",4,300,Ice Cream,High
+Tiwari's Ghee Paratha & Chaat,"JP Nagar,Bangalore",3.6,200,"Desserts,Beverages",High
+Hari Super Sandwich,"JP Nagar,Bangalore",4.1,100,Indian,High
+Street Kitchen By Mandi Pure Veg,"JP Nagar,Bangalore",4,150,"Snacks,Chaat",Low
+JUST CREAMERY - Artisanal Healthy Ice Cream,"JP Nagar,Bangalore",5,200,"Ice Cream,Beverages",Low
+"Lubov Patisserie - Cakes, Macarons and Desserts","JP Nagar,Bangalore",4.1,500,"Bakery,Desserts",High
+Punjabi Chaska,"JP Nagar,Bangalore",3.8,200,"Punjabi,North Indian",Medium
+Hotel Empire,"JP Nagar,Bangalore",4,450,"North Indian,Kebabs",Medium
+Thayee Touch,"JP Nagar,Bangalore",4.2,500,"Indian,Chinese",High
+Banashankari Donne Biryani,"JP Nagar,Bangalore",3.6,199,"Biryani,South Indian",Medium
+Pallavi Restaurant (Authentic taste from Gulbarga),"JP Nagar,Bangalore",4.3,250,"Chinese,North Indian",Low
+Shaan-e-Punjab,"JP Nagar,Bangalore",3.9,350,"North Indian,Punjabi",High
+Apsara Ice Creams,"JP Nagar,Bangalore",4.6,150,"Ice Cream,Desserts",High
+TUK TUK,"JP Nagar,Bangalore",4.2,300,"Snacks,Tandoor",High
+Rajvardhan Foods,"JP Nagar,Bangalore",4.2,250,Maharashtrian,High
+Third Wave Coffee,"JP Nagar,Bangalore",4.2,400,"Beverages,Bakery",Medium
+NH1 Bowls - Highway To North,"JP Nagar,Bangalore",3.9,250,"North Indian,Punjabi",Medium
+Hosamane by Curryosity,"JP Nagar,Bangalore",4,250,"Indian,Andhra",High
+La Fresca Pasta,"JP Nagar,Bangalore",4.1,600,"Italian,Pastas",High
+Thanco's Natural Ice cream,"JP Nagar,Bangalore",3.8,200,"Ice Cream,Desserts",High
+The Baker's Dozen,"JP Nagar,Bangalore",4.2,300,"Bakery,Desserts",High
+Itminaan Biryani - Dum Pukht,"JP Nagar,Bangalore",3.4,400,"Biryani,North Indian",Medium
+Firangi Bake,"JP Nagar,Bangalore",4.4,400,"Italian,Mexican",Medium
+Chapati Factory,"JP Nagar,Bangalore",4.1,99,"Chinese,South Indian",Medium
+Sahyadri Food Point,"JP Nagar,Bangalore",3.8,149,South Indian,High
+Krispy Kreme,"JP Nagar,Bangalore",4.5,170,"Desserts,Beverages",High
+Gowdru Mudde Mane,"JP Nagar,Bangalore",3.3,299,"South Indian,Biryani",High
+Bhavani Chats and Juice,"JP Nagar,Bangalore",4,150,Fast Food,Medium
+Ambur Star Briyani Since 1890,"JP Nagar,Bangalore",4.1,199,"North Indian,Chinese",Low
+Bombay Kulfis,"JP Nagar,Bangalore",4.6,100,"Ice Cream,Desserts",High
+MAYA MOMO SHOP,"HSR,Bangalore",4.6,220,"Chinese,Tibetan",Low
+Al Fazal Biriyani House,"HSR,Bangalore",3.2,250,"Indian,Biryani",Medium
+Slicewich,"HSR,Bangalore",3.2,99,"American,Juices",Medium
+MDP Coffee House,"HSR,Bangalore",4.2,150,"South Indian,Beverages",High
+Sandwich Eats,"HSR,Bangalore",4.1,99,"Indian,Snacks",High
+Biryani Trip,"HSR,Bangalore",4.1,400,"Biryani,Hyderabadi",High
+THE MOONG ZONE,"HSR,Bangalore",3.2,300,Indian,High
+MIRCHI MAHARAJ,"HSR,Bangalore",3.4,200,"Indian,Chinese",High
+Dande's Hyderabad Biryani,"HSR,Bangalore",3.3,350,"Biryani,Andhra",Medium
+Singh Da Punjabi Dhaba,"HSR,Bangalore",3.9,200,"Chinese,Mughlai",Medium
+Nanda's,"HSR,Bangalore",4,400,"Andhra,Biryani",Medium
+Village Donne Biryani,"HSR,Bangalore",3.5,260,Biryani,Medium
+The Humble Pie,"HSR,Bangalore",4.6,200,Desserts,Medium
+PUNJAB TIME,"HSR,Bangalore",3.1,99,"Punjabi,North Indian",High
+JENIS RESTAURANT,"HSR,Bangalore",4.1,250,"Indian,Chinese",High
+Akshara royal Andhra food,"HSR,Bangalore",3.8,150,Andhra,High
+Khai Khai,"HSR,Bangalore",4.1,500,"Bengali,Biryani",High
+The Golden Bowl,"HSR,Bangalore",3.9,200,"Indian,North Indian",High
+Bengali BigFish,"HSR,Bangalore",3.7,300,"Bengali,Chinese",High
+Gourmet Kitchen,"HSR,Bangalore",4.1,300,Indian,Medium
+Smoke House Deli,"HSR,Bangalore",4.3,600,"Italian,Continental",High
+Arya's Kitchens,"HSR,Bangalore",4.1,300,"Maharashtrian,North Indian",High
+Theory Of Omelette,"HSR,Bangalore",4.5,400,"Continental,European",Medium
+Tea Brew,"HSR,Bangalore",4,300,"American,Italian",High
+Polar bear,"HSR,Bangalore",4.4,350,"Ice Cream,Beverages",High
+Simpli Tiffins,"HSR,Bangalore",3.8,150,South Indian,Medium
+Hotel Manu,"HSR,Bangalore",3.7,350,"South Indian,Kerala",High
+Saucy Wok,"HSR,Bangalore",3.4,400,"Chinese,Pan-Asian",High
+Puneri Vada,"HSR,Bangalore",4,75,"Snacks,North Indian",Medium
+HSR Dum Biryani,"HSR,Bangalore",3.9,200,"Indian,Biryani",High
+Chaayos Chai+Snacks=Relax,"HSR,Bangalore",4.4,250,"Bakery,Beverages",High
+Cupcake Bliss Cakes & Desserts,"HSR,Bangalore",3.8,200,"Bakery,Desserts",High
+Gowdru jonne biriyani,"HSR,Bangalore",3.4,200,"South Indian,Indian",High
+Home Plate by EatFit,"Indiranagar,Bangalore",4.2,160,"North Indian,Home Food",High
+Great Indian Khichdi by EatFit,"Indiranagar,Bangalore",4.3,200,"Home Food,Indian",Low
+Street Storyss,"Indiranagar,Bangalore",4.3,1200,"Continental,Italian",High
+Gowdru Hotel,"Indiranagar,Bangalore",4,149,South Indian,High
+Ketogenic Foods - By Infinitea,"Indiranagar,Bangalore",4.5,1200,"Continental,Desserts",Low
+Thalaivars Biryani,"Indiranagar,Bangalore",4.1,300,"Andhra,Biryani",High
+Waffl'd,"Indiranagar,Bangalore",3.9,200,"Bakery,Desserts",Medium
+Donne Biriyani Mane,"Indiranagar,Bangalore",3.8,700,Indian,High
+Spicy Corner,"Indiranagar,Bangalore",3.9,150,Chinese,High
+Chaipatty,"Indiranagar,Bangalore",3,200,"Beverages,Pizzas",High
+The Burger Craft,"Indiranagar,Bangalore",4.2,600,Continental,Medium
+Smoke House Deli,"Indiranagar,Bangalore",4.2,800,"Italian,Continental",High
+Chettinese,"Indiranagar,Bangalore",4.4,400,"Biryani,Chinese",High
+Chilli & Chives,"Indiranagar,Bangalore",3.5,750,"Asian,Chinese",Medium
+Absolute Shawarma,"Indiranagar,Bangalore",4.1,150,Arabian,High
+Le Fromage,"Indiranagar,Bangalore",4.4,225,Desserts,High
+Cafe Soy,"Indiranagar,Bangalore",4.4,600,"Pan-Asian,Thai",High
+Chinese Monk (NO MSG),"Indiranagar,Bangalore",4.5,300,"Chinese,Thai",High
+Sri Ganesh Juice Center,"Indiranagar,Bangalore",4.1,200,Beverages,High
+Crusto's - Cheese Burst Pizza,"Indiranagar,Bangalore",4.1,300,"Pizzas,Italian",Medium
+Breakfast Express,"Indiranagar,Bangalore",4.4,200,"Continental,North Indian",Medium
+Olio - The Wood Fired Pizzeria,"Indiranagar,Bangalore",4,300,"Pizzas,Italian",Medium
+Hotel Empire,"Indiranagar,Bangalore",4.1,450,"North Indian,Kebabs",High
+The Chinese Story,"Indiranagar,Bangalore",4.4,400,Chinese,High
+SVSS Biryani,"Indiranagar,Bangalore",3.9,500,"Hyderabadi,Andhra",Medium
+Baskin Robbins,"Indiranagar,Bangalore",4.4,300,Ice Cream,High
+Krispy Kreme,"Indiranagar,Bangalore",4.6,170,"Desserts,Beverages",Medium
+Bangalore Mandarin,"Indiranagar,Bangalore",4.3,800,Chinese,High
+Giani Ice Cream,"Indiranagar,Bangalore",3.8,300,"Ice Cream,Beverages",High
+Tandoor and Tadka,"Indiranagar,Bangalore",3.1,250,"North Indian,Tandoor",Medium
+Calcutta Victoria Chat House,"Indiranagar,Bangalore",4,150,"North Indian,Chaat",High
+Chung Wah Express,"Indiranagar,Bangalore",4.4,350,"Chinese,Pan-Asian",Low
+China Bistro,"Indiranagar,Bangalore",4.2,750,"Chinese,Asian",Medium
+Pizza Stop,"Indiranagar,Bangalore",4.1,400,"Italian,Pizzas",High
+Momo Monk,"Indiranagar,Bangalore",4.2,350,"Pan-Asian,Chinese",Medium
+Five star chicken,"Indiranagar,Bangalore",4,200,Italian,Medium
+NATRAJ Chole bhature,"Indiranagar,Bangalore",4.3,200,Indian,High
+mahifoodcorner,"Indiranagar,Bangalore",3.2,200,"Snacks,South Indian",High
+A NAIDU'S OOTADA MANE,"Indiranagar,Bangalore",3.1,250,Indian,Medium
+Bob's Bar,"Indiranagar,Bangalore",4.4,300,"South Indian,North Indian",High
+Heaven In a Jar,"Indiranagar,Bangalore",3.9,300,"Bakery,Desserts",High
+Delhi Highway,"Indiranagar,Bangalore",3.5,1100,"Indian,Jain",Medium
+Portland Steak House,"Indiranagar,Bangalore",4,1500,"American,European",High
+CREAMS & BITES,"Indiranagar,Bangalore",4.2,150,"Ice Cream,Desserts",High
+Shree Ganesha Fruits Juice Centre,"Indiranagar,Bangalore",4,100,Juices,High
+Kund Indian Barbeque,"Indiranagar,Bangalore",4.3,200,"Mughlai,North Indian",High
+Skoosh Bubble Tea - No Tapioca,"Indiranagar,Bangalore",4.2,300,Beverages,High
+Flax - Healthy Living,"Indiranagar,Bangalore",4.3,700,"Salads,Healthy Food",Medium
+Faasos - Wraps & Rolls,"Indiranagar,Bangalore",4.2,200,"Fast Food,Snacks",High
+Fresh crunch pizza,"Indiranagar,Bangalore",5,400,"Pizzas,Burgers",Medium
+Andhra Mess,"Indiranagar,Bangalore",3.5,250,"Andhra,South Indian",Medium
+Goli Vada Pav No .1,"Indiranagar,Bangalore",4,100,"Maharashtrian,North Indian",Medium
+The Baker's Dozen,"Indiranagar,Bangalore",4.4,300,"Bakery,Desserts",Low
+"Oki Poki - Sushi, Dimsums & More","Indiranagar,Bangalore",4.9,900,"Chinese,Asian",High
+Sanchez,"Indiranagar,Bangalore",4.3,1200,Mexican,High
+Sriracha,"Indiranagar,Bangalore",4.3,1000,"Asian,Chinese",High
+Devour Stories,"Banashankari,Bangalore",4.3,350,"Continental,American",High
+Momo Monk,"Banashankari,Bangalore",4.2,350,"Pan-Asian,Chinese",High
+MADHAN FISH TAWA FRY,"Banashankari,Bangalore",4.5,450,"Seafood,Indian",Medium
+SUMUkHA HOME MADE FOODS,"Banashankari,Bangalore",4,150,"South Indian,Street Food",Medium
+Anna Kuteera,"Banashankari,Bangalore",4.2,250,"North Indian,Chinese",Low
+Chandni Chowk,"Banashankari,Bangalore",3.6,150,"Snacks,North Indian",Medium
+Yumlane Pizza,"Banashankari,Bangalore",4.3,300,"Pizzas,Beverages",High
+Andhra Meal Co,"Banashankari,Bangalore",3.5,250,"Andhra,South Indian",High
+Kabab King,"Banashankari,Bangalore",3.8,500,"Chinese,North Indian",High
+Bowl Soul,"Banashankari,Bangalore",3.7,250,"Indian,Asian",Medium
+Chai Point,"Banashankari,Bangalore",4.2,150,"Bakery,Beverages",Medium
+Shahenshah Biryani,"Banashankari,Bangalore",4.3,250,Biryani,Low
+Firangi Bake,"Banashankari,Bangalore",4.4,400,"Italian,Mexican",Medium
+Leon grill,"Banashankari,Bangalore",4.3,300,"American,Snacks",Medium
+The Momo Co.,"Banashankari,Bangalore",4,250,"Chinese,Pan-Asian",High
+LunchBox - Meals and Thalis,"Banashankari,Bangalore",3.9,200,"North Indian,Punjabi",High
+Sri Sai 99 Variety Dosa,"Banashankari,Bangalore",4.2,200,"North Indian,South Indian",High
+Biryani Trip,"Banashankari,Bangalore",3.9,400,"Biryani,Hyderabadi",Medium
+Paratha Envy,"Banashankari,Bangalore",3.7,249,North Indian,High
+XO Belgian Waffle.,"Banashankari,Bangalore",4.2,250,Desserts,High
+Andhra Gunpowder,"Banashankari,Bangalore",4,350,"Andhra,Biryani",Medium
+Hara Fine Dine,"Banashankari,Bangalore",4.1,350,"Chinese,Jain",Medium
+Artinci - Indulge Guilt Free!,"Banashankari,Bangalore",4.1,200,"Ice Cream,Healthy Food",Medium
+"Lubov Patisserie - Cakes, Macarons and Desserts","Banashankari,Bangalore",3,500,"Bakery,Desserts",Medium
+YEDIYUR RAMANNA MILITARY HOTEL,"Banashankari,Bangalore",4.1,500,"North Indian,Indian",Medium
+Little Italy,"Banashankari,Bangalore",4.1,1200,"Italian,Pizzas",High
+Kundapura Fishland,"Banashankari,Bangalore",3.9,400,"Seafood,Indian",High
+Breakfast Express,"Banashankari,Bangalore",4.4,200,"Continental,North Indian",High
+The Sugar Free Keto Kafe - By Artinci,"Banashankari,Bangalore",4.2,200,"Ice Cream,Healthy Food",Medium
+Sri Krishna Sweets,"Banashankari,Bangalore",4.5,200,Sweets,Medium
+Green cravings,"Banashankari,Bangalore",3.9,350,"Healthy Food,Continental",Medium
+Dal Tadkaa,"Banashankari,Bangalore",3.9,600,"North Indian,Rajasthani",High
+Big Bowl Company,"Banashankari,Bangalore",3.8,250,"North Indian,Chinese",High
+Samosa Singh,"Banashankari,Bangalore",4.1,150,"Snacks,North Indian",High
+Hotel Empire,"Banashankari,Bangalore",4,800,"North Indian,Kebabs",High
+Apsara Ice Creams,"Banashankari,Bangalore",4.5,150,"Ice Cream,Desserts",High
+Hari super sandwich,"Banashankari,Bangalore",3.9,150,Fast Food,High
+Khichdi Kahani,"Banashankari,Bangalore",4.7,250,North Indian,Low
+Paris Waffle Co.,"Banashankari,Bangalore",4.1,300,"Desserts,Snacks",Medium
+Cafe Coffee Day,"Banashankari,Bangalore",3.9,300,"Beverages,Snacks",Medium
+Third Wave Coffee,"Banashankari,Bangalore",4.1,400,"Beverages,Bakery",High
+Behrouz Biryani,"Banashankari,Bangalore",4.4,500,"Biryani,Mughlai",High
+Nandhana Palace,"Banashankari,Bangalore",4.1,600,"Andhra,Biryani",High
+CakeZone,"Banashankari,Bangalore",4.2,200,"Desserts,Bakery",High
+Krispy Kreme,"Banashankari,Bangalore",4.7,170,"Desserts,Beverages",High
+Kavali Hotel,"Banashankari,Bangalore",4.4,250,South Indian,High
+Ibaco,"Banashankari,Bangalore",4.4,800,Desserts,Medium
+KEBAB XPRESS,"Banashankari,Bangalore",4.2,500,"Chinese,Indian",High
+Gopi Ice Cream,"Banashankari,Bangalore",4.2,150,"Beverages,Desserts",High
+The Dripping Cone,"Banashankari,Bangalore",3.2,200,"Ice Cream,Desserts",High
+SGS Non Veg - Gundu Pulav,"Banashankari,Bangalore",3.2,400,"Indian,Biryani",Medium
+Sizzling Noodle House,"Banashankari,Bangalore",4.2,450,"Chinese,Thai",High
+Pure Veg Meals by Lunchbox,"Banashankari,Bangalore",3.9,200,"North Indian,Desserts",Medium
+The Good Bowl,"Banashankari,Bangalore",3.8,400,"North Indian,Punjabi",Medium
+Thalassery Restaurant,"Banashankari,Bangalore",3.5,500,South Indian,High
+The Bowl Company,"Banashankari,Bangalore",4.3,300,"Continental,North Indian",High
+Wow! Momo,"Banashankari,Bangalore",4.1,300,"Tibetan,Healthy Food",Medium
+Kabab Magic,"Banashankari,Bangalore",4.1,300,"Chinese,South Indian",Medium
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream","Banashankari,Bangalore",4.1,250,"Beverages,Desserts",High
+Meat and Eat,"Banashankari,Bangalore",4.3,200,"Continental,American",High
+Five Star Chicken,"Banashankari,Bangalore",3.8,200,Chinese,Medium
+Basmati Express,"Banashankari,Bangalore",3,300,"Biryani,Andhra",High
+Nizam's Kitchens,"Whitefield,Bangalore",3.9,450,"Biryani,Andhra",High
+Kuttanadu Homely Food,"Whitefield,Bangalore",4,200,Indian,High
+cakes wagon,"Whitefield,Bangalore",3.7,200,"Desserts,Bakery",High
+Domino's Pizza,"Whitefield,Bangalore",4.4,400,Pizzas,High
+Millet Express,"Whitefield,Bangalore",4.1,200,"Healthy Food,North Indian",High
+Kartik s Mithai,"Whitefield,Bangalore",4.4,250,"Sweets,Snacks",High
+Burger King,"Whitefield,Bangalore",4.2,350,American,Medium
+Lo! - Low Carb and Keto Foods,"Whitefield,Bangalore",4.4,150,"Healthy Food,Keto",Medium
+Madurai Idly Shop,"Whitefield,Bangalore",4,150,South Indian,High
+Subway,"Whitefield,Bangalore",4.1,350,"Fast Food,Salads",High
+Baskin Robbins,"Whitefield,Bangalore",4.4,150,Desserts,Medium
+Kapoor's Cafe,"Whitefield,Bangalore",4.2,400,North Indian,Low
+NH8,"Whitefield,Bangalore",3.9,500,"North Indian,Rajasthani",High
+Moriz Restaurant,"Whitefield,Bangalore",3.7,500,"North Indian,Chinese",Medium
+Alpha Biryani,"Whitefield,Bangalore",3.8,600,"Biryani,Tandoor",Medium
+Potful - Claypot Biryanis,"Whitefield,Bangalore",4.1,500,"Biryani,Kebabs",High
+Hakkachow,"Whitefield,Bangalore",4.2,500,"Thai,Chinese",High
+CAKE N CAKE DELICE,"Whitefield,Bangalore",4,400,"Bakery,Desserts",Medium
+Home Plate by EatFit,"Whitefield,Bangalore",3.6,160,"North Indian,Home Food",High
+INDIKHANA.COM,"Whitefield,Bangalore",3.7,400,"North Indian,South Indian",High
+Sanatani,"Whitefield,Bangalore",3.9,250,"Bengali,North Indian",High
+Chandini Chowk,"Whitefield,Bangalore",3.5,300,"Kebabs,Indian",Medium
+Meghana Foods,"Whitefield,Bangalore",4.2,500,"Biryani,Andhra",High
+Toscano's Crafted Cakes and Desserts,"Whitefield,Bangalore",4.4,600,"Desserts,Bakery",Medium
+Mr. Shawarma,"Whitefield,Bangalore",4,200,"Arabian,Snacks",High
+Rolls & Bowls,"Whitefield,Bangalore",4.1,200,"Chinese,Street Food",Medium
+Chinese Wok (Wok Express),"Whitefield,Bangalore",3.5,250,"Chinese,Asian",High
+New Paratha Corner,"Whitefield,Bangalore",4.2,350,North Indian,High
+Imperio Juice and Cafe,"Whitefield,Bangalore",4,250,"Cafe,Juices",Medium
+Kerala Tiffin,"Whitefield,Bangalore",3.7,400,"South Indian,Desserts",Medium
+Seheru's Kitchen,"Whitefield,Bangalore",4,200,"North Indian,Kashmiri",Medium
+Easy Bites by Hotel Empire,"Whitefield,Bangalore",3.9,200,"Snacks,Fast Food",High
+The Dessert Heaven - Pure Veg,"Whitefield,Bangalore",4.2,200,"Bakery,Desserts",Medium
+Kwality Walls Frozen Dessert and Ice Cream Shop,"Whitefield,Bangalore",4.6,300,Ice Cream,High
+Kheer Kadamb,"Whitefield,Bangalore",3.9,300,"Sweets,Snacks",High
+153 Biere Street,"Whitefield,Bangalore",3.8,1000,"Asian,Chinese",Medium
+Kerala Homely Food,"Whitefield,Bangalore",4.1,360,"Indian,South Indian",High
+FOX IN THE FIELD,"Whitefield,Bangalore",4.3,950,"Indian,Chinese",Medium
+New Udupi Delicacy Veg,"Whitefield,Bangalore",4,300,"Chinese,Desserts",High
+Sundae Everyday Ice Creams,"Whitefield,Bangalore",3.8,150,"Desserts,Ice Cream",Medium
+Beijing Bites,"Whitefield,Bangalore",4.1,450,"Chinese,Thai",High
+Birbal Ki Biryani,"Whitefield,Bangalore",3.9,300,"Indian,Chinese",Medium
+Ciro's Pizzeria,"Whitefield,Bangalore",4.7,600,"Pizzas,Italian",Medium
+Paratha Box by EatFit,"Whitefield,Bangalore",4.3,250,"North Indian,Punjabi",High
+Paratha Platform,"Whitefield,Bangalore",4.1,250,"North Indian,Desserts",High
+Noodle King Asian Bowls,"Whitefield,Bangalore",3.9,500,"Thai,Asian",High
+Bengali Dhekur,"Whitefield,Bangalore",3.5,300,Bengali,High
+Puff & Curries,"Whitefield,Bangalore",4.4,300,"North Indian,Snacks",Medium
+Andhra Biryanis,"Whitefield,Bangalore",3.8,480,"Andhra,Biryani",High
+Roti Curry Junction,"Whitefield,Bangalore",3.8,250,"Indian,North Indian",High
+Momo Zone - The Momo Company,"Whitefield,Bangalore",3.9,150,"Chinese,Tibetan",Medium
+Sanctum Kitchen,"Whitefield,Bangalore",3.9,200,Indian,Low
+Yumlane Pizza,"Whitefield,Bangalore",4.4,300,"Pizzas,Beverages",High
+HOPSHAUS,"Whitefield,Bangalore",3.9,1000,"American,Asian",Medium
+Bombay Kulfis,"Whitefield,Bangalore",4.4,300,"South Indian,North Indian",High
+Momo Monk,"Whitefield,Bangalore",3.3,350,"Pan-Asian,Chinese",Medium
+Ludos Pizza,"Whitefield,Bangalore",3.9,300,"Italian,Fast Food",Medium
+SMOOR,"Whitefield,Bangalore",4.4,350,"Desserts,Bakery",Medium
+Chaat Street,"Whitefield,Bangalore",3.9,200,"Snacks,Chaat",Medium
+Dil se Dilli,"Whitefield,Bangalore",4,400,"Mughlai,North Indian",High
+Begum Paan,"Whitefield,Bangalore",4.9,100,"Paan,Desserts",High
+Chalo chai,"Whitefield,Bangalore",3,150,"Beverages,Street Food",Low
+Srinidhi Signature,"Whitefield,Bangalore",4,200,"South Indian,Chinese",Low
+Paratha Envy,"Whitefield,Bangalore",4,249,North Indian,High
+Andhra Gunpowder,"Whitefield,Bangalore",3.8,350,"Andhra,Biryani",High
+Nu.Tree,"Whitefield,Bangalore",4,300,"Chinese,Healthy Food",High
+The Belgian Waffle Co.,"Whitefield,Bangalore",4.2,200,"Desserts,Ice Cream",Medium
+Amma's Pastries,"Whitefield,Bangalore",4,350,"Bakery,Desserts",Medium
+GOWHEY- HEALTHY DESSERT COMPANY,"Whitefield,Bangalore",4.8,200,"Desserts,Beverages",High
+homely,"Whitefield,Bangalore",4.3,200,"Home Food,North Indian",Medium
+Desi Khana,"Whitefield,Bangalore",3.8,200,"North Indian,Thalis",Medium
+The Bowl Company,"Whitefield,Bangalore",4.3,300,"Continental,North Indian",Medium
+Marigold - Fine Dine Restaurant,"Whitefield,Bangalore",3.8,1200,"North Indian,Chinese",Medium
+NH1 Bowls - Highway To North,"Whitefield,Bangalore",4.1,250,"North Indian,Punjabi",High
+Chinese Chaska,"Whitefield,Bangalore",3.8,300,"Biryani,Chinese",Medium
+Chai Central -ITPL,"Whitefield,Bangalore",3.5,100,"Beverages,North Indian",Medium
+Wow! China,"Whitefield,Bangalore",3.9,300,"Tibetan,Chinese",High
+Chinese Monk (NO MSG),"Whitefield,Bangalore",3.8,300,"Chinese,Thai",High
+Paris Panini - French Street Food,"Whitefield,Bangalore",4.3,450,"French,Continental",High
+UBQ by Barbeque Nation,"Whitefield,Bangalore",3.8,300,"North Indian,Barbecue",Medium
+Biryani Mafias,"Whitefield,Bangalore",3.4,300,"Biryani,Chinese",Medium
+Snack House,"Whitefield,Bangalore",3.8,300,"Fast Food,Street Food",Medium
+Jubli Biryani,"Whitefield,Bangalore",3.7,258,"Biryani,Indian",Medium
+Nadan Pothichoru,"Whitefield,Bangalore",3.6,200,"South Indian,Kerala",High
+Pizza Hut,"Whitefield,Bangalore",3.9,300,Pizzas,High
+Fresh Paratha Menu,"Whitefield,Bangalore",4.3,200,North Indian,High
+Roj ka Khana(Daily Meals),"Whitefield,Bangalore",4,200,North Indian,Medium
+Mega Biryani,"Whitefield,Bangalore",3.8,400,"Biryani,Hyderabadi",Medium
+"Lubov Patisserie - Cakes, Macarons and Desserts","Whitefield,Bangalore",4.3,500,"Bakery,Desserts",High
+Samosa Party,"Whitefield,Bangalore",4.1,150,"Chaat,North Indian",High
+Kidilum Grand,"Whitefield,Bangalore",3.9,500,Chinese,High
+Flying Kombucha,"Whitefield,Bangalore",4.6,200,"American,Beverages",High
+Sorse,"Whitefield,Bangalore",4.1,300,"Bengali,Mughlai",High
+Biryani Trip,"Whitefield,Bangalore",3.9,400,"Biryani,Hyderabadi",High
+The Bake Feast,"Whitefield,Bangalore",4,200,"Bakery,Desserts",High
+The Fat Chef,"Whitefield,Bangalore",3.9,1400,"North Indian,Italian",High
+aditya sweets,"Whitefield,Bangalore",4,200,"Sweets,Snacks",High
+Indian Burrito Company,"Whitefield,Bangalore",3.2,300,"Tex-Mex,Salads",Medium
+McDonald's Gourmet Burger Collection,"Whitefield,Bangalore",4.4,600,"Burgers,Beverages",Medium
+Sabzi Aur Roti,"Whitefield,Bangalore",3.3,200,"Indian,Thalis",High
+Orbis Restaurant,"Whitefield,Bangalore",3.6,400,"North Indian,Biryani",Medium
+Wall Street Shack,"Whitefield,Bangalore",4.3,250,"Arabian,Mughlai",Medium
+Ghee and Turmeric,"Whitefield,Bangalore",4.1,250,"North Indian,Tandoor",Medium
+M Cafe at Marriott Whitefield,"Whitefield,Bangalore",4,1000,"Indian,Continental",Medium
+NOTO - Healthy Ice Cream,"Whitefield,Bangalore",4.4,300,"Ice Cream,Healthy Food",High
+Marwadi Tadka Wala,"Whitefield,Bangalore",2.7,300,Indian,Medium
+Mallusingh Cook House,"Whitefield,Bangalore",3.8,250,"Biryani,Indian",High
+Pakka Mane Uta,"Whitefield,Bangalore",3.6,200,"South Indian,Indian",Medium
+Estaa Sweets,"Whitefield,Bangalore",4.3,250,"Sweets,Desserts",High
+ONESTA,"Whitefield,Bangalore",3.5,200,"Pizzas,Italian",Medium
+WarmOven Cakes & Desserts,"Whitefield,Bangalore",3.9,200,"Bakery,Desserts",Medium
+punjab time,"Whitefield,Bangalore",3.5,300,Indian,Medium
+UDUPI VEG,"Whitefield,Bangalore",3.9,300,South Indian,High
+Sri Alok Park,"Whitefield,Bangalore",4.2,200,"South Indian,North Indian",High
+California Burrito,"Whitefield,Bangalore",4.4,250,"Mexican,American",High
+Sonar Bangla,"Whitefield,Bangalore",4.1,250,"Bengali,North Indian",Medium
+KFC,"Whitefield,Bangalore",3.7,400,"American,Snacks",High
+RC EASY SNACKS,"Whitefield,Bangalore",3,300,Beverages,Medium
+Bodypower cafe,"Whitefield,Bangalore",4.9,500,"Healthy Food,Pizzas",Medium
+BASMATI'S BRIYANI NATION,"Whitefield,Bangalore",2.7,300,"Biryani,Andhra",Medium
+Dil Tiffins,"Whitefield,Bangalore",4.8,200,"South Indian,Street Food",Medium
+SRI VENKATESHWARA NELLORE MESS,"Whitefield,Bangalore",4,300,"Indian,Biryani",Medium
+The Betel Leaf Co,"Whitefield,Bangalore",4.7,200,"Paan,Desserts",Medium
+Khichdi Express,"Whitefield,Bangalore",4.3,300,North Indian,Medium
+Backwater Bliss,"Whitefield,Bangalore",4.2,200,"Kerala,South Indian",Medium
+Cupcake Bliss Cakes & Desserts,"Whitefield,Bangalore",3.4,200,"Bakery,Desserts",Medium
+The Dessert Zone,"Whitefield,Bangalore",3.8,200,"Bakery,Desserts",High
+Best in Klass,"Whitefield,Bangalore",4,200,"North Indian,South Indian",High
+Breakfast Express,"Whitefield,Bangalore",4.2,200,"Continental,North Indian",High
+Raithula Ruchi,"Whitefield,Bangalore",3.7,300,"South Indian,Andhra",Medium
+Hyderabadi Handi Biryani,"Whitefield,Bangalore",3.5,300,"Biryani,North Indian",Medium
+HUNGRY CHANG,"Whitefield,Bangalore",3.6,280,"Chinese,Pan-Asian",High
+Cafe Coffee Day,"Whitefield,Bangalore",4.4,300,"Beverages,Snacks",Medium
+Hyderabadi Kitchen,"Whitefield,Bangalore",3,300,Biryani,Medium
+TN 81,"Whitefield,Bangalore",3.7,200,"Chettinad,South Indian",Medium
+Bakingo,"Whitefield,Bangalore",3.9,299,"Bakery,Desserts",Medium
+Gunttor Mirchi,"Whitefield,Bangalore",3.2,300,"Andhra,Chinese",Medium
+Polar Bear,"Whitefield,Bangalore",4.5,400,"Ice Cream,Desserts",Medium
+Bedouin's Shawarma And More,"Whitefield,Bangalore",1.9,250,"Arabian,Fast Food",High
+Bengali Flavours,"Whitefield,Bangalore",3.2,500,Bengali,Medium
+Smoodies & Juices: Yours Fruitfully,"Kammanahalli/Kalyan Nagar,Bangalore",4.1,140,"Snacks,Healthy Food",High
+Crosstownjapan,"Kammanahalli/Kalyan Nagar,Bangalore",3.8,1200,"Japanese,Asian",Low
+Prowl Foods By Tiger Shroff,"Kammanahalli/Kalyan Nagar,Bangalore",4,500,"North Indian,Continental",High
+The Biryani Life,"Kammanahalli/Kalyan Nagar,Bangalore",3.3,250,"Biryani,Hyderabadi",High
+Natural Ice Cream,"Kammanahalli/Kalyan Nagar,Bangalore",4.6,150,Ice Cream,Medium
+Easy Bites by Hotel Empire,"Kammanahalli/Kalyan Nagar,Bangalore",3.8,200,"Snacks,Fast Food",Low
+The Thick Shake Factory,"Kammanahalli/Kalyan Nagar,Bangalore",4.3,200,"Ice Cream,Beverages",High
+Pizza Theatre,"Kammanahalli/Kalyan Nagar,Bangalore",3.4,400,"Italian,American",Medium
+Ahara,"Kammanahalli/Kalyan Nagar,Bangalore",4.1,300,"South Indian,Biryani",Medium
+Maraheb Restaurant,"Kammanahalli/Kalyan Nagar,Bangalore",4,600,Arabian,High
+3 Mangos,"Kammanahalli/Kalyan Nagar,Bangalore",3.7,100,"Juices,Ice Cream",High
+Skoosh Bubble Tea - No Tapioca,"Kammanahalli/Kalyan Nagar,Bangalore",4.5,300,Beverages,Low
+Nirula's,"Kammanahalli/Kalyan Nagar,Bangalore",4.2,400,"Desserts,Ice Cream",Medium
+Sreeraj Lassi Bar,"Kammanahalli/Kalyan Nagar,Bangalore",4.4,250,"Beverages,Desserts",Medium
+LunchBox - Meals and Thalis,"Kammanahalli/Kalyan Nagar,Bangalore",4,200,"North Indian,Punjabi",Medium
+Based On A True Story -Bistro,"Kammanahalli/Kalyan Nagar,Bangalore",4.2,600,"Pastas,Continental",Medium
+Truffles,"Kammanahalli/Kalyan Nagar,Bangalore",4.4,450,"American,Desserts",High
+The Sugar Free Keto Kafe - By Artinci,"Kammanahalli/Kalyan Nagar,Bangalore",4.3,200,"Ice Cream,Healthy Food",High
+Lucknow Express,"Kammanahalli/Kalyan Nagar,Bangalore",3.8,10,"North Indian,Thalis",High
+Behrouz Biryani,"Kammanahalli/Kalyan Nagar,Bangalore",4,500,"Biryani,Mughlai",High
+KFC,"Kammanahalli/Kalyan Nagar,Bangalore",3.9,400,"American,Snacks",Medium
+Artinci - Indulge Guilt Free!,"Kammanahalli/Kalyan Nagar,Bangalore",4.3,200,"Ice Cream,Healthy Food",Medium
+Grameen Kulfi,"Kammanahalli/Kalyan Nagar,Bangalore",4.7,120,"Ice Cream,Desserts",High
+The Betel Leaf Co.,"Kammanahalli/Kalyan Nagar,Bangalore",4.6,200,"Paan,Desserts",High
+Ghee and Turmeric,"Kammanahalli/Kalyan Nagar,Bangalore",3.7,500,"North Indian,Tandoor",High
+KUNAFA WORLD,"Kammanahalli/Kalyan Nagar,Bangalore",4.4,500,Desserts,Medium
+Oh My Shawarma,"Kammanahalli/Kalyan Nagar,Bangalore",4.1,200,Arabian,Medium
+7 Plates,"Kammanahalli/Kalyan Nagar,Bangalore",4,450,"Biryani,Chinese",Medium
+BASMATI'S BRIYANI NATION,"Kammanahalli/Kalyan Nagar,Bangalore",3.1,300,"Biryani,Andhra",High
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream","Kammanahalli/Kalyan Nagar,Bangalore",3.9,250,"Beverages,Desserts",Medium
+MIDDLE EAST RESTAURANT,"Kammanahalli/Kalyan Nagar,Bangalore",4,400,North Indian,High
+The Local,"Kammanahalli/Kalyan Nagar,Bangalore",4.2,900,"American,Biryani",High
+Nandhana Palace,"Kammanahalli/Kalyan Nagar,Bangalore",4.1,500,"Biryani,Andhra",High
+The Dessert Zone,"Kammanahalli/Kalyan Nagar,Bangalore",3.5,200,"Bakery,Desserts",High
+SMOOR,"Kammanahalli/Kalyan Nagar,Bangalore",4.5,600,"Asian,Desserts",Medium
+Dilli Wale Parathe,"Kammanahalli/Kalyan Nagar,Bangalore",3.7,250,North Indian,High
+Peking Orient,"Kammanahalli/Kalyan Nagar,Bangalore",4.2,500,"Chinese,Continental",High
+The Belgian Waffle Co.,"Kammanahalli/Kalyan Nagar,Bangalore",4.3,200,Desserts,Medium
+The Good Food Restaurant,"Kammanahalli/Kalyan Nagar,Bangalore",3.9,500,"Biryani,Indian",Medium
+Thalassery Cafe,"Kammanahalli/Kalyan Nagar,Bangalore",4,100,"Kerala,Snacks",Medium
+Chaat Street,"Kammanahalli/Kalyan Nagar,Bangalore",4.1,200,"Fast Food,Snacks",High
+Chung's Chinese Corner,"Kammanahalli/Kalyan Nagar,Bangalore",4.2,350,"Chinese,Asian",Medium
+Chaat Street Express,"Kammanahalli/Kalyan Nagar,Bangalore",4.1,200,"North Indian,Jain",Medium
+Kolkatta Famous Kati Roll,"Kammanahalli/Kalyan Nagar,Bangalore",4.3,80,Indian,High
+McDonald's Gourmet Burger Collection,"Kammanahalli/Kalyan Nagar,Bangalore",4,600,"Burgers,Beverages",High
+Chandni Chowk 2 Bangalore,"Kammanahalli/Kalyan Nagar,Bangalore",3.8,300,"Mughlai,Punjabi",High
+Foodism.in,"Kammanahalli/Kalyan Nagar,Bangalore",3.8,300,"Home Food,North Indian",High
+Chaayos Chai+Snacks=Relax,"Kammanahalli/Kalyan Nagar,Bangalore",4.4,250,"Bakery,Beverages",Medium
+Samosa Party,"Kammanahalli/Kalyan Nagar,Bangalore",4.1,100,"Chaat,North Indian",Medium
+The Indian Dhaba,"Kammanahalli/Kalyan Nagar,Bangalore",3.9,400,"Kebabs,Mughlai",Low
+The IceCream Zone,"Kammanahalli/Kalyan Nagar,Bangalore",4.7,250,"Ice Cream,Desserts",Medium
+Al Ameen Rolls Corner,"Kammanahalli/Kalyan Nagar,Bangalore",3.4,200,Street Food,Medium
+Chinese BAE,"Kammanahalli/Kalyan Nagar,Bangalore",4,400,"Chinese,Thai",Medium
+New Krishna Sagar,"Kammanahalli/Kalyan Nagar,Bangalore",4.2,500,"Chinese,South Indian",Medium
+Biswal's Food Circle,"Kammanahalli/Kalyan Nagar,Bangalore",4.1,300,"Oriya,Bengali",Medium
+Kaati Zone Rolls & Wraps,"Kammanahalli/Kalyan Nagar,Bangalore",4.1,150,"Beverages,Bengali",Medium
+Angaar Resturant,"Kammanahalli/Kalyan Nagar,Bangalore",4,500,"Indian,Chinese",Low
+Madurai Idly Shop,"Kammanahalli/Kalyan Nagar,Bangalore",3.6,150,South Indian,Medium
+Lovespell Icecream,"Kammanahalli/Kalyan Nagar,Bangalore",4.3,300,"Ice Cream,Desserts",High
+canecrush,"Kammanahalli/Kalyan Nagar,Bangalore",4.3,70,Beverages,Medium
+Five Star Chicken,"Kammanahalli/Kalyan Nagar,Bangalore",4.1,300,Fast Food,Low
+Kolkata Famous Kati Roll,"Kumaraswamy Layout & Uttarahalli,Bangalore",4,200,North Indian,Medium
+Just Shawarma,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.1,150,Arabian,Medium
+IBACO,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.4,200,Ice Cream,High
+Five Star Chicken,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.8,300,Fast Food,High
+Brundavan Upachar,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.2,200,"North Indian,Chinese",Medium
+Bake Delite,"Kumaraswamy Layout & Uttarahalli,Bangalore",4,400,"Desserts,Street Food",Medium
+Nammura Upahara,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.3,200,"South Indian,Combo",High
+Kanti Sweets,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.5,500,Sweets,Medium
+Badhyas,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.9,200,Indian,High
+@Italy,"Kumaraswamy Layout & Uttarahalli,Bangalore",4,400,Italian,High
+Lassi Shop,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.3,200,Beverages,High
+Recipe Restaurant,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.1,300,"North Indian,Chinese",Medium
+Amma's Pastries,"Kumaraswamy Layout & Uttarahalli,Bangalore",4,350,"Bakery,Desserts",Medium
+The House Of Vadapav,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.1,200,Fast Food,High
+Royale Rolls,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.7,250,Continental,High
+Polar Bear,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.5,300,"Ice Cream,Desserts",High
+Karavali Lunch Home - Kumaraswamy Layout,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.4,250,"Coastal,Seafood",High
+South Grand,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.1,400,"Street Food,North Indian",High
+EAT N DRNK,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.8,300,"Indian,Snacks",Medium
+The Bengal Club,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.8,250,"Bengali,Biryani",High
+ANAGHA GRAND VEG,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.3,200,"Indian,Oriental",High
+CHAI NAGRI,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.5,350,"Beverages,Indian",Medium
+Shanthi Sagar,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.5,400,"Chinese,North Indian",High
+Zomoz - The Momo Company,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.2,250,"Tibetan,Chinese",Medium
+Kabab King Uttarahalli,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.6,300,Indian,High
+Absolute Shawarma,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.8,250,"Arabian,Snacks",High
+PEETUK,"Kumaraswamy Layout & Uttarahalli,Bangalore",4,250,"Bengali,Biryani",Medium
+Ruchi Food Junction,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.3,300,"Chinese,Desserts",Medium
+SLAY Coffee,"Kumaraswamy Layout & Uttarahalli,Bangalore",4,200,"Beverages,Desserts",High
+LunchBox - Meals and Thalis,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.8,300,"North Indian,Punjabi",High
+Roll N Rock,"Kumaraswamy Layout & Uttarahalli,Bangalore",4,250,"Fast Food,North Indian",High
+Absolute Momo Cafe,"Kumaraswamy Layout & Uttarahalli,Bangalore",4,250,"Chinese,Snacks",High
+Donne biriyani corner,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.1,600,"South Indian,Biryani",High
+Dwaraka Grand,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.1,500,"Street Food,North Indian",High
+Ande Ka Funda,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.8,250,"Street Food,North Indian",High
+Domino's Pizza,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.3,400,Pizzas,Medium
+Hari Super Sandwich,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.8,150,Snacks,Medium
+SMOOR,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.6,350,"Desserts,Bakery",High
+Healthy Chef,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.5,200,"Salads,North Indian",High
+Chinese Wok (Wok Express),"Kumaraswamy Layout & Uttarahalli,Bangalore",3.8,250,"Chinese,Asian",High
+Hotel Prashanth,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.8,150,South Indian,High
+Puliyogare Palace,"Kumaraswamy Layout & Uttarahalli,Bangalore",2.1,250,"South Indian,Desserts",High
+Street8Cafe,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.9,300,"Fast Food,Indian",Medium
+Dindigul Thalappakatti,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.7,500,"Biryani,Barbecue",Medium
+Rajathadri Palace,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.3,500,"Indian,Chinese",Medium
+Manjushrees Gowdru Mudde Mane,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.2,350,"South Indian,Biryani",High
+San Tung Chinese,"Kumaraswamy Layout & Uttarahalli,Bangalore",4,250,"Chinese,Tibetan",High
+Biryani Khazana,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.6,300,Biryani,High
+Goli Vada Pav No .1,"Kumaraswamy Layout & Uttarahalli,Bangalore",4,100,"Maharashtrian,North Indian",High
+C Corner,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.3,200,Fast Food,Low
+SWAD KOLHAPURI,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.5,400,"Maharashtrian,Indian",High
+SLV REFRESHMENT,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.3,100,Indian,High
+Mad Over Donuts,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.3,200,"Desserts,Sweets",High
+Goli Vada Pav No. 1,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.3,100,"Maharashtrian,North Indian",High
+New Biryani Mane,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.1,250,"Biryani,North Indian",High
+UDUPI SWADA,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.1,200,"Chinese,North Indian",High
+Sri Krishna Aramane,"Kumaraswamy Layout & Uttarahalli,Bangalore",4.3,150,"Asian,Chinese",High
+Olive - Era,"Kumaraswamy Layout & Uttarahalli,Bangalore",3.8,440,"Chinese,South Indian",Low
+Kullad Cafe,"BTM,Bangalore",4,150,"North Indian,Fast Food",Medium
+PUNJAB KITCHEN,"BTM,Bangalore",4.3,250,North Indian,High
+The Pulkawala,"BTM,Bangalore",4.4,299,"North Indian,Indian",High
+EatFit,"BTM,Bangalore",4.2,270,"Healthy Food,Pizzas",Medium
+Pizza Hut,"BTM,Bangalore",4,350,Pizzas,Medium
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream","BTM,Bangalore",4.4,250,"Beverages,Desserts",Medium
+Bathinda Tandoor,"BTM,Bangalore",3.6,300,"Punjabi,North Indian",Medium
+Madras Meal Company,"BTM,Bangalore",3.9,350,"South Indian,Chettinad",High
+Jose Mess,"BTM,Bangalore",4.3,200,Indian,Medium
+MODERN LOVERS CAKE,"BTM,Bangalore",4.7,300,Bakery,Medium
+PARATHA WALI,"BTM,Bangalore",4,300,"Chinese,North Indian",Medium
+Ghar Ka Khana,"BTM,Bangalore",4.2,300,"Thalis,North Indian",High
+Narmadha's Hyderabad Biriyani,"BTM,Bangalore",3.7,300,Indian,Medium
+Canteen Central by Eatfit,"BTM,Bangalore",4.4,350,"Pizzas,American",High
+The Manchurian,"BTM,Bangalore",4.4,150,"Chinese,Snacks",Medium
+MY KHANA,"BTM,Bangalore",3.8,199,"North Indian,Indian",Low
+NIC Natural Ice Creams,"BTM,Bangalore",4.6,120,"Ice Cream,Desserts",High
+The Icecream Zone,"BTM,Bangalore",3.3,300,"Home Food,North Indian",High
+Sri Punjabi Dhaba,"BTM,Bangalore",2.7,300,"North Indian,Biryani",Medium
+Shahenshah Biryani,"BTM,Bangalore",2.8,400,Indian,Medium
+Five star chicken,"BTM,Bangalore",3.8,250,Snacks,High
+IBC ( Indian Biryani Company),"BTM,Bangalore",3.7,300,"Biryani,South Indian",Medium
+The Royal Biryani Story,"BTM,Bangalore",3.7,299,"Biryani,Hyderabadi",High
+Fitnes Nation,"BTM,Bangalore",4.2,350,"North Indian,Healthy Food",High
+Kerala Biryani Corner,"BTM,Bangalore",3.5,200,"Biryani,Indian",High
+NEW ARAMANE DONNE BIRIYANI,"BTM,Bangalore",4.4,250,"Biryani,North Indian",Medium
+Pastas By Pizza Hut,"BTM,Bangalore",3.8,300,"Pastas,Pizzas",High
+Combo Plates,"BTM,Bangalore",3.5,250,"Grill,Arabian",High
+The Dessert Zone,"BTM,Bangalore",4,200,"Bakery,Desserts",High
+AB s-Absolute Barbecues,"BTM,Bangalore",3.6,400,"Barbecue,Biryani",Medium
+Shapana dhaba,"BTM,Bangalore",3.7,150,"Chinese,North Indian",High
+Udupi Athithya,"BTM,Bangalore",4,130,"South Indian,North Indian",High
+King of Briyani,"BTM,Bangalore",1.8,350,"North Indian,Chinese",High
+Pizza Corner House,"BTM,Bangalore",3.8,300,"Pizzas,Combo",High
+Bismillah Hotel,"BTM,Bangalore",3.6,200,Chinese,High
+Kalingas,"BTM,Bangalore",4.2,200,"North Indian,Oriya",High
+Wonton,"BTM,Bangalore",3.9,350,Chinese,Medium
+Svadu Pure Ghee sweets,"BTM,Bangalore",4.5,200,"Desserts,Sweets",High
+Puneri Katta,"BTM,Bangalore",4.3,150,"Indian,Maharashtrian",High
+Ice Cafe & Lassi Shop,"BTM,Bangalore",3.5,310,Beverages,Low
+Food Junction,"BTM,Bangalore",4,400,"Indian,Chinese",High
+The Firewood Pizza,"BTM,Bangalore",3.9,350,"Italian,Pizzas",High
+Momo Zone - The Momo Company,"BTM,Bangalore",4,150,"Chinese,Tibetan",High
+SRI KRISHNA SAGAR,"BTM,Bangalore",4.2,300,South Indian,Low
+Bombay Kulfis,"BTM,Bangalore",4.8,150,"Ice Cream,Desserts",Medium
+HARMAN DA DHABA,"BTM,Bangalore",4.2,300,"North Indian,Fast Food",High
+Litti Twist,"BTM,Bangalore",4.2,250,North Indian,High
+Barbeque Nation,"BTM,Bangalore",3.9,600,"North Indian,Barbecue",High
+UBQ by Barbeque Nation,"BTM,Bangalore",4.2,300,"North Indian,Barbecue",High
+Burger It Up,"BTM,Bangalore",4,150,"American,Fast Food",Medium
+Chicken County Restaurant,"BTM,Bangalore",3.7,350,"Chinese,Grill",Low
+New GFC Hotel,"BTM,Bangalore",3.4,160,"Indian,Biryani",Medium
+LunchBox - Meals and Thalis,"BTM,Bangalore",4.1,200,"North Indian,Punjabi",Low
+DONNE BIRIYANI HOUSE,"BTM,Bangalore",3.7,300,"Biryani,South Indian",Medium
+Angel Restaurant,"BTM,Bangalore",3,200,South Indian,High
+Agarwal Food Service BTM,"BTM,Bangalore",3.6,250,"Thalis,Biryani",High
+"m-Aura Cafe, Kitchen & More","BTM,Bangalore",4,400,"North Indian,Mughlai",High
+The Daily Meal,"BTM,Bangalore",3,250,North Indian,High
+Auntie Fung's,"BTM,Bangalore",4,600,"Asian,Chinese",High
+Ambur Star Briyani Since 1890,"BTM,Bangalore",4.2,500,"Biryani,Chettinad",High
+TEA TIME CAFE,"BTM,Bangalore",4,200,"Beverages,Snacks",High
+The Daily Bowl,"BTM,Bangalore",3.6,200,"North Indian,South Indian",High
+Plan B,"BTM,Bangalore",4.4,800,American,Medium
+SRI SAPANA DHABA,"BTM,Bangalore",3.2,400,"Indian,Chinese",High
+Tasty Magic,"BTM,Bangalore",3.4,300,"Arabian,Biryani",High
+O4H - Order For Health,"BTM,Bangalore",4.5,400,"Healthy Food,Salads",High
+Burger In Moon,"BTM,Bangalore",3.8,200,"American,Fast Food",Medium
+Wow! Momo,"BTM,Bangalore",4.1,250,"Tibetan,Healthy Food",Medium
+SABZI AUR ROTI,"BTM,Bangalore",3.8,150,Indian,High
+BIB - English Breakfast in the Box,"BTM,Bangalore",4,350,American,Low
+Aubree,"Yelahanka,Bangalore",4.2,700,"Desserts,Bakery",High
+Biryani By Kilo,"Yelahanka,Bangalore",3.9,500,"Biryani,Hyderabadi",High
+Rolls on wheels,"Yelahanka,Bangalore",4.1,300,Snacks,High
+WarmOven Cakes & Desserts,"Yelahanka,Bangalore",3.4,200,"Bakery,Desserts",Medium
+Pethfull,"Yelahanka,Bangalore",3.9,200,"North Indian,Italian",Medium
+Cupcake Bliss Cakes & Desserts,"Yelahanka,Bangalore",4,200,"Bakery,Desserts",Medium
+Kaati Zone Rolls & Wraps,"Yelahanka,Bangalore",4.1,150,Beverages,High
+Taste Of India,"Yelahanka,Bangalore",4.6,400,"North Indian,Chinese",High
+Barbeque Nation,"Yelahanka,Bangalore",3.9,600,"North Indian,Barbecue",High
+KFC,"Yelahanka,Bangalore",3.7,400,"American,Snacks",High
+Potful - Claypot Biryanis,"Yelahanka,Bangalore",4.2,500,"Biryani,Kebabs",High
+Ambur Hot Dum Biryani,"Yelahanka,Bangalore",3.7,450,"North Indian,South Indian",High
+Davangere Benne Dosa,"Yelahanka,Bangalore",4.3,150,South Indian,Medium
+A2B Veg,"Yelahanka,Bangalore",4,300,"South Indian,North Indian",High
+Sundae Everyday Ice Creams,"Yelahanka,Bangalore",4.1,150,Ice Cream,Medium
+The Dessert Heaven - Pure Veg,"Yelahanka,Bangalore",4.1,200,"Bakery,Desserts",High
+Bakers Street,"Yelahanka,Bangalore",4,200,"Bakery,Chaat",Medium
+Thalassery Restaurant,"Yelahanka,Bangalore",3.8,300,"South Indian,Biryani",Medium
+HRX by Eatfit,"Yelahanka,Bangalore",5,270,"Healthy Food,Pizzas",High
+Al Falah,"Yelahanka,Bangalore",3.8,280,"Chinese,Kerala",Medium
+FIVE STAR CHICKEN AND KOLI HUT,"Yelahanka,Bangalore",4.4,200,"Fast Food,American",Medium
+GOLI VADA PAV NO 1,"Yelahanka,Bangalore",4.3,200,"Street Food,North Indian",Medium
+Chef Bakers,"Yelahanka,Bangalore",3.8,300,Bakery,High
+Indiana Burgers,"Yelahanka,Bangalore",4.2,150,American,High
+Desii Panda,"Yelahanka,Bangalore",4.3,400,North Indian,Low
+California Burrito,"Yelahanka,Bangalore",4.4,250,"Mexican,American",Medium
+Sri Curries,"Yelahanka,Bangalore",3.9,300,"Andhra,Biryani",High
+Bk AMBUR DUM BIRYANI,"Yelahanka,Bangalore",4.1,150,Biryani,High
+Sri bahubali Andhra style family restaurant,"Yelahanka,Bangalore",4.2,250,"North Indian,Biryani",High
+Donne Biriyani Mane,"Yelahanka,Bangalore",3.6,300,"North Indian,Chinese",High
+Reddy Home Mess,"Yelahanka,Bangalore",4.2,200,"Andhra,Biryani",Medium
+THARAVADU MALABAR BIRYANI,"Yelahanka,Bangalore",3.1,230,"Kerala,Biryani",Medium
+SMOOTHY STORE,"Yelahanka,Bangalore",4.4,300,Beverages,High
+Beijing Bites,"Yelahanka,Bangalore",4.2,450,"Asian,Chinese",Medium
+South Junction Restaurant,"Yelahanka,Bangalore",4,200,"Kerala,South Indian",High
+Momos and Twistatoes,"Yelahanka,Bangalore",4.4,250,Chinese,High
